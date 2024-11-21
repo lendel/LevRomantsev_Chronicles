@@ -1,0 +1,5 @@
+TELEGRAM_TOKEN = 'ваш_токен_бота'
+OPENAI_API_KEY = 'ваш_ключ_OpenAI'
+GITHUB_TOKEN = 'ваш_токен_GitHub'
+GITHUB_REPO = 'пользователь/репозиторий'
+ADMIN_ID = 'ваш_telegram_id'
